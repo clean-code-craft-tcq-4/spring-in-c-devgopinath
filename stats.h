@@ -1,4 +1,4 @@
-#ifdef STATS_H
+#ifndef STATS_H
 #define STATS_H
 
 #define NULL_POINTER    ((void *)0)
