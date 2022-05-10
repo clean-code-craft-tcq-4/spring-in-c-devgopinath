@@ -1,6 +1,8 @@
 #ifdef STATS_H
 #define STATS_H
 
+#define NULL_POINTER    ((void *)0)
+
 struct Stats
 {
     float average;
